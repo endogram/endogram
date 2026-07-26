@@ -19,4 +19,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=endogram&limit=5&theme=prussian&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=endogram&icon=5&color=2)](https://visitcount.itsvg.in)
